@@ -12,5 +12,5 @@
 <body>
 
   <header>
-
+    <a href="<?php echo bloginfo('url'); ?>"><?php echo bloginfo('name'); ?></a>
   </header>
