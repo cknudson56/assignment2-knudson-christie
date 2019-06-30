@@ -12,5 +12,7 @@
 <body>
 
   <header>
-    <a href="<?php echo bloginfo('url'); ?>"><?php echo bloginfo('name'); ?></a>
+    <h1><a href="<?php echo bloginfo('url'); ?>"><?php echo bloginfo('name'); ?></a></h1>
+
+    <h2><?php echo bloginfo('description'); ?></h2>
   </header>
