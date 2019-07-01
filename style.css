@@ -12,8 +12,11 @@
 @import url("css/normalize.css");
 @import url("css/skeleton.css");
 
-.container {
+body {
   background-color: #EBF2FA;
+}
+.container {
+  background-color: #FFFFFF;
 }
 
 h1, h2, h3, h4, h5, h6, p {
