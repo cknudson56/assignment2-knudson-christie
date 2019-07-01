@@ -48,12 +48,22 @@ header h2 {
   padding-right: 20px;
 }
 
+.row {
+  display: block;
+  left: auto;
+  right: auto;
+}
+
 .posts {
   margin-top: 10px;
 }
 
 .column, .columns {
-  margin-left: 0% !important;
+  margin: 0% !important;
+}
+
+.one-half.column.posts {
+  padding: 15px;
 }
 
 footer {
