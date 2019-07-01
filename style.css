@@ -25,8 +25,9 @@ h1, h2, h3, h4, h5, h6, p {
   color: #2E4052;
 }
 
-a {
+a:link {
   color: #2E4052;
+  text-decoration: none;
 }
 
 a:hover {
