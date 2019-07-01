@@ -48,10 +48,8 @@ header h2 {
   padding-right: 20px;
 }
 
-.row {
-  display: block;
-  left: auto;
-  right: auto;
+.index-row {
+  padding-left: 50px;
 }
 
 .posts {

@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div class="container">
-  <div class="row">
+  <div class="row index-row">
     <?php
       if(have_posts()){
         while(have_posts()){
