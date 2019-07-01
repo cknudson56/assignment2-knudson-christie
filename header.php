@@ -9,7 +9,7 @@
   <?php wp_head(); ?>
 </head>
 
-<body class="container">
+<body>
 
   <header>
     <div class="row">
