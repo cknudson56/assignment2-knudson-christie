@@ -100,7 +100,7 @@ footer p {
   margin-top: 25px;
 }
 
-@media (min-width: 870px) {
+@media (min-width: 950px) {
   .index-row {
     padding-left: 50px;
   }
