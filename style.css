@@ -66,8 +66,7 @@ header h2 {
 }
 
 .index-row {
-  padding-left: 50px;
-  padding-top: 50px !important;
+  padding-top: 30px !important;
 }
 
 .posts {
@@ -99,4 +98,16 @@ footer p {
   height: auto;
   margin-bottom: 50px;
   margin-top: 25px;
+}
+
+@media (min-width: 870px) {
+  .index-row {
+    padding-left: 50px;
+  }
+}
+
+@media (min-width: 550px) and (max-width: 870px) {
+  .one-half.column {
+    width: 100%;
+  }
 }
