@@ -12,7 +12,7 @@
 @import url("css/normalize.css");
 @import url("css/skeleton.css");
 
-body {
+.container {
   background-color: #EBF2FA;
 }
 
@@ -20,11 +20,27 @@ h1, h2, h3, h4, h5, h6, p {
   color: #2E4052;
 }
 
+a {
+  color: #2E4052;
+}
+
+a:hover {
+  color: #FFC857;
+}
+
 header {
   padding-top: 50px;
   padding-bottom: 25px;
   background-color: #BDD9BF;
   width: 100%;
+}
+
+h1 {
+  padding-left: 20px;
+}
+
+h2 {
+  padding-right: 20px;
 }
 
 footer {
