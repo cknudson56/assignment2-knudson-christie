@@ -11,3 +11,28 @@
 
 @import url("css/normalize.css");
 @import url("css/skeleton.css");
+
+body {
+  background-color: #EBF2FA;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  color: #2E4052;
+}
+
+header {
+  margin-top: 50px;
+  margin-bottom: 25px;
+  background-color: #BDD9BF;
+}
+
+footer {
+  margin-top: 25px;
+  margin-bottom: 50px;
+  background-color: #2E4052;
+}
+
+footer p {
+  text-align: center;
+  color: #EBF2FA;
+}
