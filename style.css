@@ -15,6 +15,7 @@
 body {
   background-color: #EBF2FA;
 }
+
 .container {
   background-color: #FFFFFF;
 }
@@ -38,12 +39,26 @@ header {
   width: 100%;
 }
 
-h1 {
+header h1 {
   padding-left: 20px;
 }
 
-h2 {
+header h2 {
   padding-right: 20px;
+}
+
+.posts {
+  margin-top: 10px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.img-center {
+  display: block;
+  left: auto;
+  right: auto;
 }
 
 footer {
