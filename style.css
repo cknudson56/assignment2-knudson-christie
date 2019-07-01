@@ -21,15 +21,17 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 header {
-  margin-top: 50px;
-  margin-bottom: 25px;
+  padding-top: 50px;
+  padding-bottom: 25px;
   background-color: #BDD9BF;
+  width: 100%;
 }
 
 footer {
-  margin-top: 25px;
-  margin-bottom: 50px;
+  padding-top: 25px;
+  padding-bottom: 50px;
   background-color: #2E4052;
+  width: 100%;
 }
 
 footer p {
