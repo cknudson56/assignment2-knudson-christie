@@ -6,6 +6,7 @@
   <title><?php bloginfo('name'); ?></title>
   <!-- link CSS file -->
   <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" />
+  <link href="https://fonts.googleapis.com/css?family=Francois+One|Oswald&display=swap" rel="stylesheet">
   <?php wp_head(); ?>
 </head>
 
